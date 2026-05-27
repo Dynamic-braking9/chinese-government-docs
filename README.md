@@ -1,5 +1,8 @@
 # Chinese Government Document Generator (chinese-government-docs)
 
+> **[中文版 / Chinese Version → README.zh.md](README.zh.md)**
+
+
 A Hermes Agent Skill for generating standardized Chinese government and enterprise official documents (.docx) compliant with **GB/T 9704-2012** (*Format for Official Documents of Party and Government Organs*).
 
 ## ✨ Features

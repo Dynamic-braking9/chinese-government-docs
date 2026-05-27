@@ -17,7 +17,7 @@ Specifically:
   this project and its contents.
 
 开发说明：
-- 代码生成和文档编写由 Hermes Agent（Nous Research）使用 DeepSeek
+- 代码生成和文档编写由 Hermes Agent（Nous Research）使用 MIMO V2.5 PRO
   语言模型辅助完成。
 - 所有 AI 生成的内容均经过人工作者审核、测试并批准后发布。
 - 人工作者保留对本项目及其内容的完全所有权和责任。
